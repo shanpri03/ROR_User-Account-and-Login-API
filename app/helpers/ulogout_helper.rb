@@ -1,0 +1,2 @@
+module UlogoutHelper
+end
